@@ -196,5 +196,5 @@ def my_module_server(input, output, session, shared_store, app_session=None):
 Pre-fill all pipeline stages with Titanic sample data for independent module testing:
 
 ```bash
-DEV_MODE=true shiny run app.py
+DEV_MODE=true shiny run app_B.py
 ```
