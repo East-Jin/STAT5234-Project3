@@ -1,5 +1,5 @@
 """
-STAT5243 Project 2 — Data Preprocessing & EDA Web Application
+STAT5243 Project 3 
 
 Main entry point. Wires together all modules, the shared data store,
 and the navbar layout. Run with:  shiny run app_B.py
