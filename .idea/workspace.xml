@@ -4,53 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16df02c9-f69d-4e5d-8380-0be76b5656b4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/STAT5243-Project3-main/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/STAT5243-Project3-main/app.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/STAT5243-Project3-main/app_B.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/STAT5243-Project3-main/data/ames_housing.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/STAT5243-Project3-main/data/titanic.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/STAT5243-Project3-main/docs/ARCHITECTURE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/STAT5243-Project3-main/modules/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/STAT5243-Project3-main/modules/data_cleaning.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/STAT5243-Project3-main/modules/data_loading.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/STAT5243-Project3-main/modules/data_loading_c.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/STAT5243-Project3-main/modules/eda.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/STAT5243-Project3-main/modules/feature_engineering.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/STAT5243-Project3-main/modules/user_guide.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/STAT5243-Project3-main/modules/user_guide_c.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/STAT5243-Project3-main/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/STAT5243-Project3-main/router/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/STAT5243-Project3-main/router/router_app.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/STAT5243-Project3-main/router/rsconnect-python/router.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/STAT5243-Project3-main/rsconnect-python/STAT5234-Project3-main.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/STAT5243-Project3-main/shared/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/STAT5243-Project3-main/shared/data_store.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/STAT5243-Project3-main/shared/sample_datasets.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/STAT5243-Project3-old/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/STAT5243-Project3-old/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/STAT5243-Project3-old/app.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/STAT5243-Project3-old/app_B.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/STAT5243-Project3-old/data/ames_housing.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/STAT5243-Project3-old/data/titanic.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/STAT5243-Project3-old/docs/ARCHITECTURE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/STAT5243-Project3-old/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/STAT5243-Project3-old/modules/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/STAT5243-Project3-old/modules/data_cleaning.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/STAT5243-Project3-old/modules/data_loading.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/STAT5243-Project3-old/modules/data_loading_c.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/STAT5243-Project3-old/modules/eda.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/STAT5243-Project3-old/modules/feature_engineering.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/STAT5243-Project3-old/modules/user_guide.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/STAT5243-Project3-old/modules/user_guide_c.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/STAT5243-Project3-old/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/STAT5243-Project3-old/rsconnect-python/STAT5234-Project3.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/STAT5243-Project3-old/shared/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/STAT5243-Project3-old/shared/data_store.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/STAT5243-Project3-old/shared/sample_datasets.py" beforeDir="false" />
-    </list>
+    <list default="true" id="16df02c9-f69d-4e5d-8380-0be76b5656b4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
