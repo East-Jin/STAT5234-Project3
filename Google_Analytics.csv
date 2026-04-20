@@ -1,0 +1,44 @@
+# ----------------------------------------
+# STATGR5243 Project 3 
+# Free form-Free form 1
+# 20260322-20260418
+# ----------------------------------------
+
+Group,Event name,Active users,Event count
+,,71,2901,Grand total
+(not set),ab_group,24,55
+A,ab_group,21,61
+B,ab_group,21,61
+(not set),button_click,1,37
+A,button_click,11,234
+B,button_click,10,42
+(not set),click,1,1
+A,dataset_loaded_success,9,14
+B,dataset_loaded_success,4,4
+(not set),experiment_assignment,63,131
+(not set),feature_apply_click,1,3
+A,feature_apply_click,5,10
+B,feature_apply_click,2,2
+(not set),feature_save_to_pipeline_click,1,2
+A,feature_save_to_pipeline_click,2,4
+,first_visit,1,1
+(not set),first_visit,66,69
+(not set),load_dataset_click,1,6
+A,load_dataset_click,11,87
+B,load_dataset_click,5,12
+,page_view,1,2
+(not set),page_view,70,305
+A,plot_download_png_click,1,1
+,scroll,1,2
+(not set),scroll,66,282
+,session_start,1,1
+(not set),session_start,66,80
+B,session_start,2,2
+(not set),tab_engagement,1,39
+A,tab_engagement,17,388
+B,tab_engagement,17,223
+(not set),tab_view,2,41
+A,tab_view,21,401
+B,tab_view,20,243
+(not set),user_engagement,21,55
+
