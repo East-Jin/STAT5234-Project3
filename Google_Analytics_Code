@@ -6,7 +6,7 @@ from scipy.stats import fisher_exact
 # 1. Read the CSV file exported from GA4
 # The first 6-7 lines of GA4 exports are usually report metadata, so we use skiprows to bypass them.
 try:
-    df = pd.read_csv("download.csv", skiprows=7, names=['Group', 'Event name', 'Active users', 'Event count', 'Extra'])
+    df = pd.read_csv("Google_Analytics.csv", skiprows=7, names=['Group', 'Event name', 'Active users', 'Event count', 'Extra'])
 except FileNotFoundError:
     print("Error: File not found. Please ensure you have uploaded 'download.csv' to the Colab files pane on the left!")
     raise
